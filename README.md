@@ -1,13 +1,15 @@
-Project-001 :Survey Form (HC-01)
-Description
+## Project-001 :Survey Form (HC-01)
 
+## Description
 Project aims to create survey form within html and css.
-Problem Statement
 
-    Your company has recently started on a project that aims to conduct a survey to measure the demands and interests of its customers. So you and your colleagues have started to work on the project.
+## Problem Statement
 
-Project Skeleton
+- Your company has recently started on a project that aims to conduct a survey to measure the demands and interests of its customers. So you and your colleagues have started to work on the project.
 
+## Project Skeleton 
+
+```
 001-survey-form (folder)
 |
 |----readme.md         # Given to the students (Definition of the project)          
@@ -15,74 +17,80 @@ Project Skeleton
         |----index.html  
         |----style.css   
         |----result.html 
+```
 
-Expected Outcome
+## Expected Outcome
 
-Project 001 Snapshot
-Objective
+![Project 001 Snapshot](Project_001_.png)
 
-Build a Survey Form that is functionally similar to this: Survey Form
-At the end of the project, following topics are to be covered;
+## Objective
 
-    HTML Forms-Input Types
+Build a Survey Form that is functionally similar to this: [Survey Form](https://mccarthy-silva.github.io/Survey-Form/)
 
-    HTML Form Elements
+### At the end of the project, following topics are to be covered;
 
-    CSS Colors-Border Properties
+- HTML Forms-Input Types 
 
-    CSS Margins-Padding
+- HTML Form Elements
 
-    CSS Properties for Texts-Font Families-Links
+- CSS Colors-Border Properties
 
-At the end of the project, students will be able to;
+- CSS Margins-Padding
 
-    improve coding skills within HTML & CSS
+- CSS Properties for Texts-Font Families-Links
 
-    use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
-Steps to Solution
+### At the end of the project, students will be able to;
 
-    Step 1: Download or clone project repo on Github
+- improve coding skills within HTML & CSS
 
-    Step 2: Create project folder for local public repo on your pc
+- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
-    Step 3: Create Survey Form
+## Steps to Solution
+  
+- Step 1: Download or clone project repo on Github 
 
-        Part-1 HTML Structure
+- Step 2: Create project folder for local public repo on your pc
 
-- Creat structure of the HTML5
-- Give name of your project (title)
-- Create the main structure of the container (div id="container")
-- Create Main Topic of the project (id="title")
-- Create a description of your project (id="description")
-- Create a form (id="survey-form")
-- Create 4 divisions (class="box") for each label and single-line text input field (Tips:Don't forget to use placeholder)
-- Create a division (class="box") for a dropdown list. (Tips:dont forget to use a label tag)
-- Create a division (class="box") for checkbox list
-- Create a division (class="box") for radio buttons
-- Create a division (class="box") for a multi-line input field (Tips: a text area)
-- Create a button for id="submit" the form
+- Step 3: Create Survey Form
 
-        Part-2 CSS Structure
+>>Part-1 HTML Structure
 
-- Set a background and define font-color="white"
-- Set container background color and margin
-- Define "title" and "description" color-size-padding etc...
-- Define "survey-form" color-size-padding etc..
-- Define labels color-size-padding etc... (Tips: id="name", "email", "number" ...)
-- Set class color-size-padding-margin etc...
-- Define id="submit" color-size-padding etc...
+	- Creat structure of the HTML5
+	- Give name of your project (title)
+	- Create the main structure of the container (div id="container")
+	- Create Main Topic of the project (id="title")
+	- Create a description of your project (id="description")
+	- Create a form (id="survey-form")
+	- Create 4 divisions (class="box") for each label and single-line text input field (Tips:Don't forget to use placeholder)
+	- Create a division (class="box") for a dropdown list. (Tips:dont forget to use a label tag)
+	- Create a division (class="box") for checkbox list
+	- Create a division (class="box") for radio buttons
+	- Create a division (class="box") for a multi-line input field (Tips: a text area)
+	- Create a button for id="submit" the form
 
-    Step 4: Push your application into your own public repo on Github
+>>Part-2 CSS Structure
 
-    Step 5: Deploy your application on Github template to showcase your app within your team.
+	- Set a background and define font-color="white"
+	- Set container background color and margin
+	- Define "title" and "description" color-size-padding etc...
+	- Define "survey-form" color-size-padding etc..
+	- Define labels color-size-padding etc... (Tips: id="name", "email", "number" ...)
+	- Set class color-size-padding-margin etc...
+	- Define id="submit" color-size-padding etc...
+	
+- Step 4: Push your application into your own public repo on Github
 
-Notes
+- Step 5: Deploy your application on Github template to showcase your app within your team.
 
-    You can use HTML,and CSS to complete this project.
+## Notes
 
-Resources
+- You can use HTML,and CSS to complete this project.
 
-    Background Image Url
+## Resources
 
-Happy coding!
+-  [Background Image Url](https://assets.nflxext.com/ffe/siteui/vlv3/998c1c50-6aaa-4795-ab62-9190a025d529/b9883521-f439-4c16-b5eb-b1719e2fece1/ZA-en-20191203-popsignuptwoweeks-perspective_alpha_website_small.jpg)
+
+
+## Happy coding!
+
