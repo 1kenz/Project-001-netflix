@@ -1,6 +1,4 @@
-## https://xkendx.github.io/netflix/
-
-## Project-001 :Survey Form (HC-01)
+# Project-001 :Survey Form (HC-01)
 
 ## Description
 Project aims to create survey form within html and css.
